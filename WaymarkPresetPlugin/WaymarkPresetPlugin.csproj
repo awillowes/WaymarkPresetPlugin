@@ -3,11 +3,11 @@
 		<TargetFramework>net7.0-windows</TargetFramework>
 		<Platforms>AnyCPU</Platforms>
 		<Version>1.4.4.2</Version>
-		<Authors>PunishedPineapple</Authors>
+		<Authors>PunishedPineapple, squidmade</Authors>
 		<Product />
 		<Copyright>Copyright © PunishedPineapple 2020-2023</Copyright>
-		<PackageProjectUrl>https://github.com/PunishedPineapple/WaymarkPresetPlugin</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/PunishedPineapple/WaymarkPresetPlugin</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/squidmade/WaymarkPresetPlugin</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/squidmade/WaymarkPresetPlugin</RepositoryUrl>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
